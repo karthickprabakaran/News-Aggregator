@@ -106,8 +106,4 @@ For additional assistance, refer to the documentation of any specific dependenci
 ![WhatsApp Image 2025-01-01 at 10 04 18_6abd36b4](https://github.com/user-attachments/assets/5a1e9d86-240a-4e19-a5bd-aa7e77477096)
 
 
-![Application Dashboard](path/to/dashboard-image.png)
 
-![Category Filters Example](path/to/category-filters-image.png)
-
-![Real-Time Updates](path/to/real-time-updates-image.png)
